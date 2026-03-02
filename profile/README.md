@@ -12,3 +12,13 @@
 
 - [Desarrollo](https://github.com/isis4825-imagenes-vision-202610/epic-kitchens-docs.git)
 - [Documentación](https://github.com/isis4825-imagenes-vision-202610/epic-kitchens.git)
+
+
+### Fechas clave
+
+| Challenges Leaderboards Open                   	| Feb 2026    	|
+|------------------------------------------------	|-------------	|
+| Challenges Leaderboards Close                  	| 13 May 2026 	|
+| Challenges Technical Reports Deadline (on CMT) 	| 20 May 2026 	|
+| Notification to Challenge Winners              	| 27 May 2026 	|
+| Challenge Reports ArXiv Deadline               	| 1 June 2026 	|
