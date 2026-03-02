@@ -14,6 +14,10 @@
 - [Documentación](https://github.com/isis4825-imagenes-vision-202610/epic-kitchens-docs)
 
 
+### Quicklinks
+- [EgoVis | Challenge Home](https://egovis.github.io/cvpr26)
+- ![Epic Kitchens | Codebench](https://www.codabench.org/competitions/12008/)
+
 ### Fechas clave
 
 | Challenges Leaderboards Open                   	| Feb 2026    	|
