@@ -16,7 +16,7 @@
 
 ### Quicklinks
 - [EgoVis | Challenge Home](https://egovis.github.io/cvpr26)
-- ![Epic Kitchens | Codebench](https://www.codabench.org/competitions/12008/)
+- [Epic Kitchens | Codebench](https://www.codabench.org/competitions/12008/)
 
 ### Fechas clave
 
