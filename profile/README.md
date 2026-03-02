@@ -10,8 +10,8 @@
 
 ### Indice
 
-- [Desarrollo](https://github.com/isis4825-imagenes-vision-202610/epic-kitchens-docs.git)
-- [Documentación](https://github.com/isis4825-imagenes-vision-202610/epic-kitchens.git)
+- [Desarrollo](https://github.com/isis4825-imagenes-vision-202610/epic-kitchens-2026)
+- [Documentación](https://github.com/isis4825-imagenes-vision-202610/epic-kitchens-docs)
 
 
 ### Fechas clave
